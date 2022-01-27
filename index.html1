@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!-- Joseph Beniamen-->
+<!-- TEJ2O-->
+<!--january 14,2022-->
+
+<html>
+
+<head>
+  <link href='style.css' rel='stylesheet'>
+</head>
+<body>
+  <div class='content'>  
+ <img src='https://img.bleacherreport.net/img/images/photos/003/792/530/hi-res-8d0a84833138d575c8c94a60fda6d69e_crop_north.jpg?1550764166&w=3072&h=2048'>
+
+ <img src=https://clutchpoints.com/wp-content/uploads/2021/11/Collage-of-Anderson-Silva.jpg''>
+
+ <img src=https://i2-prod.mirror.co.uk/incoming/article23698261.ece/ALTERNATES/s615b/2_GettyImages-12049707319.jpg''>
+ 
+    <h3 class='byline'>made by :Joseph Beniamen:)</h3>
+    <h1>Greatest UFC Fighters</h1>
+<p> The greatest ufc fighters of all time are, Anderson Silva, Jon Jones and George St Pierre.
+  </div>
+
+  <div class='image'>
+    <p class='caption'>bang</p>
+  </div>
+</body>
+
+</html>
+
